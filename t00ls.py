@@ -7,6 +7,7 @@ import json
 import requests
 import logging
 
+
 logging.basicConfig(level=logging.WARNING,
                     format='%(asctime)s - %(filename)s [line:%(lineno)d] - %(levelname)s: %(message)s')
 # usage:
